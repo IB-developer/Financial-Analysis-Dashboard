@@ -123,7 +123,7 @@ The slicers dynamically update all charts and KPIs.
 # 📸 Dashboard Preview
 
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](https://github.com/IB-developer/Financial-Analysis-Dashboard/blob/main/Dashboard%20Snapshot.png)
 
 ---
 
@@ -132,12 +132,9 @@ The slicers dynamically update all charts and KPIs.
 ```
 Financial-Performance-Dashboard/
 │
-├── Dashboard.xlsx
-├── Financial_Dataset.xlsx
+├── Financial_Analysis Dashboard.xlsx
+├── Dashboard Snapshot
 ├── README.md
-│
-└── Images/
-      └── Dashboard.png
 ```
 
 ---
